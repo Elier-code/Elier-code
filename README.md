@@ -24,171 +24,130 @@
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Elier"
-        self.username = "Elier-Code"
-        self.role = "Estudiante de Ingeniería de Sistemas"
-        self.location = "Colombia"
-        self.interests = [
-            "Desarrollo de software",
-            "Aplicaciones web y móviles",
-            "Inteligencia artificial",
-            "APIs REST y bases de datos",
-            "Algoritmos y automatización"
-        ]
+    def __init__(self):<div align="center">
 
-    def current_goal(self):
-        return "Aprender, construir y mejorar con cada proyecto"
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=ELIER%20CODE&fontSize=48&color=0:090979,50:3010A0,100:00D4FF&fontColor=FFFFFF&stroke=00D4FF&animation=fadeIn&desc=CECAR%20%7C%20INGENIER%C3%8DA%20DE%20SISTEMAS&descSize=15&descAlignY=70" width="100%" alt="Elier Code - Ingeniería de Sistemas"/>
 
+# 👨‍💻 Estudiante de Ingeniería de Sistemas
 
-me = Developer()
-```
+### Desarrollo Web y Móvil | APIs REST | Bases de Datos
 
-💻 Soy estudiante de Ingeniería de Sistemas en CECAR, apasionado por la tecnología y la creación de soluciones de software.
+<p>
+  <img src="https://img.shields.io/badge/STATUS-Aprendiendo%20y%20Construyendo-00D4FF?style=flat-square&logo=github&logoColor=white" alt="Estado de aprendizaje"/>
+  <img src="https://img.shields.io/badge/UBICACIÓN-Colombia-7B61FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Colombia"/>
+</p>
 
-🚀 Me interesa desarrollar aplicaciones que resuelvan problemas reales, explorar nuevas tecnologías y convertir ideas en proyectos funcionales.
-
-🧠 Disfruto experimentar con programación, bases de datos, inteligencia artificial y herramientas de desarrollo.
-
-🎯 Mi objetivo es fortalecer mis habilidades técnicas, construir un portafolio sólido y participar en proyectos colaborativos.
-
-📍 Sincelejo, Sucre, Colombia.
+</div>
 
 ---
 
-## `> Stack tecnológico`
+## 🟢 Tecnologías y herramientas
 
-### Lenguajes de programación
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css&theme=dark" alt="Python, C Sharp, TypeScript, JavaScript, HTML y CSS"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Rider"/>
 </p>
-
-### Backend y desarrollo móvil
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,expo,nodejs&theme=dark" alt=".NET, React, Expo y Node.js"/>
-</p>
-
-### Bases de datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase&theme=dark" alt="MySQL, SQLite, PostgreSQL y Supabase"/>
-</p>
-
-### Herramientas y entorno de desarrollo
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark" alt="Git, GitHub, VS Code, Linux, Docker y Postman"/>
-</p>
-
-> Mi stack está en constante evolución. Estas tecnologías representan herramientas que utilizo o exploro en mi aprendizaje; no implican el mismo nivel de experiencia en todas ellas.
 
 ---
 
-## `> Proyectos destacados`
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<a href="https://github.com/Elier-Code">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Elier-Code&show_icons=true&hide_border=true&bg_color=10102A&title_color=00D4FF&icon_color=BF5AF2&text_color=E6EDF3&rank_icon=github" alt="Estadísticas de Elier-Code"/>
+</a>
+<a href="https://github.com/Elier-Code">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elier-Code&layout=compact&hide_border=true&bg_color=10102A&title_color=00D4FF&text_color=E6EDF3&langs_count=6" alt="Lenguajes más utilizados"/>
+</a>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elier-Code&bg_color=10102A&color=00D4FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad de GitHub"/>
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 NexoCiencia
 
-Plataforma educativa orientada al aprendizaje mediante recursos, ejercicios y contenidos interactivos.
+Plataforma educativa para el aprendizaje de matemáticas, geometría, física mecánica y cálculo integral.
 
-**Áreas principales:**
-- Matemáticas y geometría.
-- Física mecánica y cálculo integral.
-- Recursos educativos y actividades de aprendizaje.
+- Recursos educativos y ejercicios.
+- Contenidos de aprendizaje interactivo.
+- Desarrollo de una experiencia educativa digital.
 
-**Enfoque:** desarrollo web, interfaces y gestión de contenidos educativos.
-
-[![Explorar proyecto](https://img.shields.io/badge/EXPLORAR_PROYECTO-00BCD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elier-code/NexoCiencia)
+[![Ver proyecto](https://img.shields.io/badge/Ver%20NexoCiencia-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://elier-code.github.io/NexoCiencia/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍽️ TasteGo
 
-Aplicación móvil orientada al ámbito gastronómico, con funcionalidades relacionadas con restaurantes, usuarios y descubrimiento de lugares.
+Proyecto de aplicación móvil enfocado en el ámbito gastronómico.
 
-**Áreas principales:**
 - React Native y Expo.
-- Persistencia local con SQLite.
-- Integración de servicios y mapas.
-- Exploración de funcionalidades 3D.
+- SQLite para almacenamiento local.
+- Exploración de mapas y servicios externos.
+- Funcionalidades relacionadas con restaurantes y usuarios.
 
-**Enfoque:** desarrollo móvil y gestión de datos.
-
-[![Ver mis repositorios](https://img.shields.io/badge/MIS_REPOSITORIOS-00BCD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elier-Code?tab=repositories)
+[![Ver repositorios](https://img.shields.io/badge/Explorar%20repositorios-00BCD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elier-Code?tab=repositories)
 
 </td>
-  </tr>
+</tr>
 </table>
 
-### 🧬 Inteligencia artificial y algoritmos
+### 🧠 Áreas de interés
 
-Exploración de soluciones con Python, algoritmos genéticos y técnicas de optimización aplicadas a problemas de recomendación, considerando factores como satisfacción, rentabilidad y nutrición.
-
-### ⚙️ APIs y arquitectura de software
-
-Aprendizaje práctico en el desarrollo de APIs REST con .NET, diseño de bases de datos relacionales, autenticación y sincronización de información entre aplicaciones móviles y servicios backend.
+- Inteligencia artificial y algoritmos genéticos.
+- Desarrollo backend con .NET y APIs REST.
+- Bases de datos y arquitectura de software.
+- Aplicaciones móviles y sincronización de datos.
+- Automatización y análisis de datos.
 
 ---
 
-## `> Estadísticas de GitHub`
+## 👨‍🚀 Sobre mí
+
+```text
+> Estudiante de Ingeniería de Sistemas
+> Universidad: CECAR
+> Enfoque: Desarrollo web, móvil y backend
+> Intereses: IA, APIs REST y bases de datos
+> Objetivo: Crear soluciones tecnológicas útiles
+```
+
+Me gusta aprender construyendo proyectos, experimentar con nuevas tecnologías y mejorar mis habilidades mediante la práctica.
 
 <div align="center">
 
-<a href="https://github.com/Elier-Code">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Elier-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=E6EDF3&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub de Elier-Code"/>
-</a>
+### 🌐 Encuéntrame en GitHub
 
-<a href="https://github.com/Elier-Code">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elier-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6EDF3&langs_count=8" alt="Lenguajes más utilizados por Elier-Code"/>
-</a>
+[![Perfil de GitHub](https://img.shields.io/badge/Elier--Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elier-Code)
+[![Repositorios](https://img.shields.io/badge/Mis%20proyectos-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elier-Code?tab=repositories)
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/Elier-Code">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Elier-Code&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF" alt="Racha de contribuciones de Elier-Code"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:3010A0,100:090979&height=100&section=footer" width="100%" alt="Banner inferior"/>
 
-</div>
-
----
-
-## `> Actualmente explorando`
-
-- [ ] Desarrollo de APIs REST con ASP.NET Core.
-- [ ] Autenticación y autorización con JWT.
-- [ ] Bases de datos relacionales y sincronización con SQLite.
-- [ ] Despliegue de aplicaciones y servicios en la nube.
-- [ ] Inteligencia artificial y algoritmos de optimización.
-- [ ] Buenas prácticas de Git, documentación y desarrollo colaborativo.
-
----
-
-## `> Conectemos`
-
-<div align="center">
-
-¿Compartimos intereses en programación, inteligencia artificial o desarrollo de software? ¡Conectemos y construyamos algo interesante!
-
-<a href="https://github.com/Elier-Code">
-  <img src="https://img.shields.io/badge/GitHub-Visita_mi_perfil-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Visitar perfil de GitHub"/>
-</a>
-
-<a href="https://github.com/Elier-Code?tab=repositories">
-  <img src="https://img.shields.io/badge/Proyectos-Explorar_repositorios-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explorar repositorios"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0D2C54,100:050816&height=110&section=footer" width="100%" alt="Pie de página futurista"/>
-
-**`[ SYSTEM STATUS: LEARNING • BUILDING • EVOLVING ]`**
-
-*«El futuro no se espera. Se construye, línea por línea».*
+*`[ APRENDER • DESARROLLAR • INNOVAR ]`*
 
 </div>
