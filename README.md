@@ -1,30 +1,4 @@
-<!--
-  PERFIL DE GITHUB — Elier-Code
-  Estilo: Tech / Futurista
-  Repositorio: Elier-Code/Elier-Code
--->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0D2C54,100:00E5FF&height=200&section=header&text=ELIER%20CODE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=SYSTEMS%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=13" width="100%" alt="Banner futurista de Elier Code"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Elier+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollando+ideas+con+c%C3%B3digo;Explorando+el+futuro+de+la+tecnolog%C3%ADa" alt="Presentación animada de Elier"/>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Elier--Code-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Elier-Code)
-[![Ubicación](https://img.shields.io/badge/Ubicación-Colombia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00E5FF)](https://github.com/Elier-Code)
-[![Perfil](https://komarev.com/ghpvc/?username=Elier-Code&style=for-the-badge&color=00BCD4&label=VISITAS+AL+PERFIL)](https://github.com/Elier-Code)
-
-</div>
-
----
-
-## `> Sobre mí`
-
-```python
-class Developer:
-    def __init__(self):<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=ELIER%20CODE&fontSize=48&color=0:090979,50:3010A0,100:00D4FF&fontColor=FFFFFF&stroke=00D4FF&animation=fadeIn&desc=CECAR%20%7C%20INGENIER%C3%8DA%20DE%20SISTEMAS&descSize=15&descAlignY=70" width="100%" alt="Elier Code - Ingeniería de Sistemas"/>
 
